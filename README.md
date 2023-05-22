@@ -110,4 +110,10 @@ This returns a JSON with the products that have been preloaded.
   <img src="https://github.com/otammato/Python_API_CRUD_operations/assets/104728608/2d9468ec-e64f-414c-94c5-d42673f4d417" width="600px"/>
 </p>
 
+5. In the terminal, run the following command to add a product to the list. This will be a POST request to which you will pass the product parameter as a JSON.
 
+```python
+curl -X POST -H "Content-Type: application/json" \
+    -d '{"id": 145, "name": "Pen", "price": 2.5}' \
+    http://localhost:5000/products
+```
