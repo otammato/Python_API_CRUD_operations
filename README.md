@@ -1,7 +1,7 @@
-# Python_API_CRUD_operations
+# Python_REST_API_CRUD_operations
 
-- Create API endpoints to perform Create, Retrieve, Update, and Delete operations on transient data with a Flask server.
-- Create REST API endpoints, and use POSTMAN to test your REST APIs.
+- Create API endpoint to perform Create, Retrieve, Update, and Delete operations on transient data with a Flask server.
+- Create REST API endpoint, and use POSTMAN to test your REST APIs.
 
 ## Pre-steps:
 1. Create an EC2 instance
