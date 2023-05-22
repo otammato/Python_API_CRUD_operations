@@ -99,3 +99,5 @@ app.run(port=5000,debug=True)
   <img src="https://github.com/otammato/Python_API_CRUD_operations/assets/104728608/7beaee9e-9ef7-4efc-b209-8d9c5cf2e244" width="600px"/>
 </p>
 
+3. Open another Terminal window
+4. In the new terminal, run the following command to access the http://localhost:5000/products API endpoint. ```curl``` command stands for Client URL and is used as command line interfacing with the server serving REST API endpoints. It is, by default, a GET request.
