@@ -16,4 +16,4 @@ You will use cURL and POSTMAN to test the implemented endpoints.
 4. install pip ```sudo yum install python3-pip```
 5. install flask and install flask_cors```python3 -m pip install flask flask_cors```
 
-##
+## Create application
