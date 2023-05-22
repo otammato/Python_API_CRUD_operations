@@ -88,3 +88,4 @@ def remove_product(id):
 
 app.run(port=5000,debug=True)
 ```
+## Run and test the server with cURL
