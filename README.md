@@ -112,7 +112,7 @@ This returns a JSON with the products that have been preloaded.
 
 5. In the terminal, run the following command to add a product to the list. This will be a POST request to which you will pass the product parameter as a JSON.
 
-```python
+```bash
 curl -X POST -H "Content-Type: application/json" \
     -d '{"id": 145, "name": "Pen", "price": 2.5}' \
     http://localhost:5000/products
