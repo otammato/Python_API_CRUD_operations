@@ -18,3 +18,4 @@ You will use cURL and POSTMAN to test the implemented endpoints.
 
 ## Create application
 ```mkdir project```
+```[ ! -d 'jmgdo-microservices' ] && git clone https://github.com/ibm-developer-skills-network/jmgdo-microservices.git```
