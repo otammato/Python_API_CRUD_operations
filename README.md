@@ -95,4 +95,7 @@ app.run(port=5000,debug=True)
 
 2. The server starts running and listening at port 5000.
 
-![image](https://github.com/otammato/Python_API_CRUD_operations/assets/104728608/7beaee9e-9ef7-4efc-b209-8d9c5cf2e244)
+<p align="left" >
+  <img src="https://github.com/otammato/Python_API_CRUD_operations/assets/104728608/7beaee9e-9ef7-4efc-b209-8d9c5cf2e244" width="600px"/>
+</p>
+
