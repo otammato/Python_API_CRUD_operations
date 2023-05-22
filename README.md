@@ -32,6 +32,7 @@ from flask import Flask, jsonify, request
 import json
 from flask_cors import CORS
 
+# create the Flask application, which will service all the REST APIs for adding, retrieving, updating, and deleting products.
 app = Flask("Product Server")
 CORS(app)
 
