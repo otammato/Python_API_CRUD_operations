@@ -120,3 +120,5 @@ curl -X POST -H "Content-Type: application/json" \
 This command will not return any output. It will add the product to the list of products.
 
 6. Verify if the product is added by running the following command.
+
+```curl http://localhost:5000/products/145```
