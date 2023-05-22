@@ -26,6 +26,8 @@ You will use cURL and POSTMAN to test the implemented endpoints.
 3. In the Files Explorer open the jmgdo-microservices/CRUD folder and view products.py.
 
 ```python
+#import the packages required to create REST APIs with Flask.
+
 from flask import Flask, jsonify, request
 import json
 from flask_cors import CORS
