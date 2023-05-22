@@ -101,3 +101,5 @@ app.run(port=5000,debug=True)
 
 3. Open another Terminal window
 4. In the new terminal, run the following command to access the http://localhost:5000/products API endpoint. ```curl``` command stands for Client URL and is used as command line interfacing with the server serving REST API endpoints. It is, by default, a GET request.
+
+```curl http://localhost:5000/products```
