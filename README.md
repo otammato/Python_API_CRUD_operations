@@ -17,3 +17,4 @@ You will use cURL and POSTMAN to test the implemented endpoints.
 5. install flask and install flask_cors```python3 -m pip install flask flask_cors```
 
 ## Create application
+```mkdir project```
