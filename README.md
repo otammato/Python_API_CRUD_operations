@@ -90,4 +90,9 @@ app.run(port=5000,debug=True)
 ```
 ## Run and test the server with cURL
 1. In the terminal, run the python server using the following command.
+
 ```python3 products.py```
+
+2. The server starts running and listening at port 5000.
+
+![image](https://github.com/otammato/Python_API_CRUD_operations/assets/104728608/7beaee9e-9ef7-4efc-b209-8d9c5cf2e244)
