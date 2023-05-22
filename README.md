@@ -23,6 +23,8 @@ You will use cURL and POSTMAN to test the implemented endpoints.
 
 ```cd jmgdo-microservices/CRUD```
 
+3. In the Files Explorer open the jmgdo-microservices/CRUD folder and view products.py.
+
 ```python
 from flask import Flask, jsonify, request
 import json
