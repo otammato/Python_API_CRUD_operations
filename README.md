@@ -43,9 +43,13 @@ products = [
     {'id': 144, 'name': 'Black Marker', 'price': 1.99}
 ]
 
-#
-#Add all the REST API end-points here
-#
+# create the REST API endpoints and define the routes or paths, one for each of the following operations.
+# Retrieve all the products - GET Request Method
+# Retrieve a product by its id - GET Request Method
+# Add a product - POST Request Method
+# Update a product by its id - PUT Request Method
+# Delete a product by its id - DELETE Request Method
+
 # Example request - http://localhost:5000/products
 @app.route('/products', methods=['GET'])
 def get_products():
