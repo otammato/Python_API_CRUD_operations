@@ -122,3 +122,5 @@ This command will not return any output. It will add the product to the list of 
 6. Verify if the product is added by running the following command.
 
 ```curl http://localhost:5000/products/145```
+
+This should return the details of the product you just added with a POST request.
