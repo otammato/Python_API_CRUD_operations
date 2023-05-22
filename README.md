@@ -89,3 +89,4 @@ def remove_product(id):
 app.run(port=5000,debug=True)
 ```
 ## Run and test the server with cURL
+1. In the terminal, run the python server using the following command.
