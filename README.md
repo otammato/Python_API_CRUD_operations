@@ -124,3 +124,8 @@ This command will not return any output. It will add the product to the list of 
 ```curl http://localhost:5000/products/145```
 
 This should return the details of the product you just added with a POST request.
+
+<p align="left" >
+  <img src="https://github.com/otammato/Python_API_CRUD_operations/assets/104728608/93a7be67-d123-43bc-b69a-5c93a64b5b25" width="600px"/>
+</p>
+
