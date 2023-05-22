@@ -20,3 +20,5 @@ You will use cURL and POSTMAN to test the implemented endpoints.
 ```mkdir project```
 
 ```[ ! -d 'jmgdo-microservices' ] && git clone https://github.com/ibm-developer-skills-network/jmgdo-microservices.git```
+
+```cd jmgdo-microservices/CRUD```
