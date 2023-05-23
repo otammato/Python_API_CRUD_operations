@@ -129,6 +129,7 @@ This should return the details of the product you just added with a POST request
   <img src="https://github.com/otammato/Python_API_CRUD_operations/assets/104728608/93a7be67-d123-43bc-b69a-5c93a64b5b25" width="600px"/>
 </p>
 
-## Using POSTMAN to test the REST API endpoints
 <br>
+## Using POSTMAN to test the REST API endpoints
+
 While the ```GET``` endpoints are easy to test with curl using a command line interface, the ```POST```, ```PUT``` and ```DELETE``` commands can be cumbersome. To circumvent this problem, you can use Postman, which is a software that is available as a service.
