@@ -162,7 +162,7 @@ While the ```GET``` endpoints are easy to test with curl using a command line in
 
 4. Test the ```PUT``` endpoint to update product details by changing the price of the item with id 146 to 42.00. Set the request type to ```PUT``` and add the product id to the end of the ```URL``` and add the value to be changed as a ```JSON``` body and click Send.
 
-```
+```JSON
 {
     "price":42.00
 }
