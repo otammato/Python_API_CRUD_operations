@@ -139,4 +139,10 @@ While the ```GET``` endpoints are easy to test with curl using a command line in
   <img src="https://github.com/otammato/Python_API_CRUD_operations/assets/104728608/a425c892-2f16-4157-9b00-bc6fa58fac4f" width="600px"/>
 </p>
 
+1. Change the request type to POST. To send input as JSON, choose raw->body->JSON.
+
+<p align="left" >
+  <img src="https://github.com/otammato/Python_API_CRUD_operations/assets/104728608/6a49cab0-6f85-4073-83fa-d7b09bae1917" width="600px"/>
+</p>
+
 
