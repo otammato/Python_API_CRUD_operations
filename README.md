@@ -130,5 +130,5 @@ This should return the details of the product you just added with a POST request
 </p>
 
 ## Using POSTMAN to test the REST API endpoints
-
+<br>
 While the ```GET``` endpoints are easy to test with curl using a command line interface, the ```POST```, ```PUT``` and ```DELETE``` commands can be cumbersome. To circumvent this problem, you can use Postman, which is a software that is available as a service.
