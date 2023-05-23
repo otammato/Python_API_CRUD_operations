@@ -155,3 +155,8 @@ While the ```GET``` endpoints are easy to test with curl using a command line in
 }
 ```
 3. Verify the list of products to ensure that the request has gone through and the product is added. Change the request type to ```GET``` and remove the ```JSON``` object from the request body. Click Send and observe the output in the response window.
+
+<p align="left" >
+  <img src="https://github.com/otammato/Python_API_CRUD_operations/assets/104728608/14e5e938-b92f-4313-81ab-68c167e3c529" width="600px"/>
+</p>
+
