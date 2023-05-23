@@ -15,6 +15,7 @@ We will use cURL and POSTMAN to test the implemented endpoints.
 3. install git ```sudo yum install git```
 4. install pip ```sudo yum install python3-pip```
 5. install flask and install flask_cors```python3 -m pip install flask flask_cors```
+6. Open port 5000 to access the API endpoint running on the flask server
 
 ## Create application
 ```mkdir project```
