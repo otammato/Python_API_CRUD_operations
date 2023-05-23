@@ -147,7 +147,7 @@ While the ```GET``` endpoints are easy to test with curl using a command line in
 
 2. Enter the following JSON object and click the Send button. This will add the product to your previous list of products.
 
-```
+```JSON
 {
     "id":146,
     "name":"Laptop Bag",
