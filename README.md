@@ -145,4 +145,13 @@ While the ```GET``` endpoints are easy to test with curl using a command line in
   <img src="https://github.com/otammato/Python_API_CRUD_operations/assets/104728608/6a49cab0-6f85-4073-83fa-d7b09bae1917" width="600px"/>
 </p>
 
+2. Enter the following JSON object and click the Send button. This will add the product to your previous list of products.
+
+```
+{
+    "id":146,
+    "name":"Laptop Bag",
+    "price":45.00
+}
+```
 
