@@ -167,3 +167,7 @@ While the ```GET``` endpoints are easy to test with curl using a command line in
     "price":42.00
 }
 ```
+<p align="left" >
+  <img src="https://github.com/otammato/Python_API_CRUD_operations/assets/104728608/f22b3690-2979-4c43-8c89-9dbe43dd342d" width="600px"/>
+</p>
+
