@@ -171,3 +171,4 @@ While the ```GET``` endpoints are easy to test with curl using a command line in
   <img src="https://github.com/otammato/Python_API_CRUD_operations/assets/104728608/f22b3690-2979-4c43-8c89-9dbe43dd342d" width="600px"/>
 </p>
 
+5. Verify the product with id 146 to ensure that the request has gone through and the product is updated. Change the request type to ```GET``` and remove the ```JSON``` object from the request body. Click Send and observe the output in the response window.
