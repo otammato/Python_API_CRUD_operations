@@ -160,3 +160,4 @@ While the ```GET``` endpoints are easy to test with curl using a command line in
   <img src="https://github.com/otammato/Python_API_CRUD_operations/assets/104728608/14e5e938-b92f-4313-81ab-68c167e3c529" width="600px"/>
 </p>
 
+4. Test the ```PUT``` endpoint to update product details by changing the price of the item with id 146 to 42.00. Set the request type to ```PUT``` and add the product id to the end of the ```URL``` and add the value to be changed as a ```JSON``` body and click Send.
