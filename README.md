@@ -1,6 +1,6 @@
 # Python_REST_API_CRUD_operations
 
-This Python script sets up a simple REST API using Flask, which provides endpoints for adding, retrieving, updating, and deleting products. The API handles different HTTP request methods (GET, POST, PUT, DELETE) to perform these operations. The data is stored in memory as a list of product dictionaries.
+This Python project sets up a simple REST API using Flask, which provides endpoints for adding, retrieving, updating, and deleting products. The API handles different HTTP request methods (GET, POST, PUT, DELETE) to perform these operations. The data is stored in memory as a list of product dictionaries.
 
 Here's a summary of the API endpoints and their functionalities:
 
