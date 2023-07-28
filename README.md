@@ -40,6 +40,8 @@ pip install Flask
 pip install Flask-CORS
 ```
 
+In this project we:
+
 - Create API endpoints to perform Create, Retrieve, Update, and Delete operations on transient data with a Flask server.
 - Create REST API endpoints, and use POSTMAN to test your REST APIs.
 
