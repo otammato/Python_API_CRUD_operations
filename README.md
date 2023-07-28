@@ -1,5 +1,45 @@
 # Python_REST_API_CRUD_operations
 
+This Python script sets up a simple REST API using Flask, which provides endpoints for adding, retrieving, updating, and deleting products. The API handles different HTTP request methods (GET, POST, PUT, DELETE) to perform these operations. The data is stored in memory as a list of product dictionaries.
+
+Here's a summary of the API endpoints and their functionalities:
+
+1. Retrieve all products - GET Request Method:
+   Endpoint: `/products`
+   Function: `get_products()`
+   Description: Returns a JSON response containing all the products.
+
+2. Retrieve a product by its ID - GET Request Method:
+   Endpoint: `/products/<id>`
+   Function: `get_product(id)`
+   Description: Returns a JSON response containing the product with the specified ID.
+
+3. Add a product - POST Request Method:
+   Endpoint: `/products`
+   Function: `add_product()`
+   Description: Adds a new product to the list. The product data should be provided in the request body as a JSON object.
+
+4. Update a product by its ID - PUT Request Method:
+   Endpoint: `/products/<id>`
+   Function: `update_product(id)`
+   Description: Updates the product with the specified ID. The updated product data should be provided in the request body as a JSON object.
+
+5. Delete a product by its ID - DELETE Request Method:
+   Endpoint: `/products/<id>`
+   Function: `remove_product(id)`
+   Description: Deletes the product with the specified ID from the list.
+
+Note: To run this application, save the code in a Python file (e.g., `app.py`) and execute it. The API will be accessible at `http://localhost:5000`.
+
+Please make sure to have Flask and Flask-CORS installed before running the script. You can install them using `pip`:
+
+```bash
+pip install Flask
+pip install Flask-CORS
+```
+
+Remember that this is a basic example for educational purposes. In a real-world scenario, you might want to use a database to store and manage the products, implement proper error handling, and use authentication for secure access to the API endpoints.
+
 - Create API endpoints to perform Create, Retrieve, Update, and Delete operations on transient data with a Flask server.
 - Create REST API endpoints, and use POSTMAN to test your REST APIs.
 
@@ -8,6 +48,8 @@ We create a Products's list using a Flask server. Your application should allow 
 We will create an application with API endpoints to perform Create, Retrieve, Update, and Delete operations on the above data using a Flask server.
 
 We will use cURL and POSTMAN to test the implemented endpoints.
+
+This is a basic example for demo purposes. In a real-world scenario, you might want to use a database to store and manage the products, implement proper error handling, and use authentication for secure access to the API endpoints.
 
 ## Pre-steps:
 1. Create an EC2 instance
