@@ -2,6 +2,8 @@
 
 This Python project sets up a simple REST API using Flask, which provides endpoints for adding, retrieving, updating, and deleting products. The API handles different HTTP request methods (GET, POST, PUT, DELETE) to perform these operations. The data is stored in memory as a list of product dictionaries.
 
+This is a basic example for demo purposes. In a real-world scenario, you might want to use a database to store and manage the products, implement proper error handling, and use authentication for secure access to the API endpoints.
+
 Here's a summary of the API endpoints and their functionalities:
 
 1. Retrieve all products - GET Request Method:
@@ -37,8 +39,6 @@ Please make sure to have Flask and Flask-CORS installed before running the scrip
 pip install Flask
 pip install Flask-CORS
 ```
-
-Remember that this is a basic example for educational purposes. In a real-world scenario, you might want to use a database to store and manage the products, implement proper error handling, and use authentication for secure access to the API endpoints.
 
 - Create API endpoints to perform Create, Retrieve, Update, and Delete operations on transient data with a Flask server.
 - Create REST API endpoints, and use POSTMAN to test your REST APIs.
